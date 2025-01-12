@@ -1,5 +1,15 @@
 name: Neutron
-version: 1.0
+version: 2.0
 main: com.example.Neutron
 api-version: 1.21
 description: This is a Gemini API integration plugin
+commands:
+    ai:
+        description: Use the AI
+        usage: /ai <text>
+    aireload:
+        description: reload Neutron config
+        usage: /aireload
+permissions:
+  neutron.reload:
+      default: op
