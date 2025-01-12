@@ -1,0 +1,2 @@
+gemini_api_endpoint: "YOUR_GEMINI_ENDPOINT_URL" # 替换成你的Gemini API地址
+api_key: "YOUR_API_KEY"  # 替换成你的api key

@@ -1,0 +1,5 @@
+name: Neutron
+version: 1.0
+main: com.example.Neutron
+api-version: 1.21
+description: This is a Gemini API integration plugin
